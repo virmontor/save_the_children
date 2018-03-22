@@ -67,13 +67,14 @@ A continuación toca entender cuales son las acciones que están impiendiendo qu
 
 
 
-*USER PERSONA*
+**USER PERSONA**
 ![Fortalezas y Oportunidades](assets/images/user.png)
 
 
 
-## *OBJETIVO DE USUARIO*
+## **OBJETIVO DE USUARIO**
 
 Tener una retribución emocional a través de una donación segura y confiable.
 
 <hr>
+
