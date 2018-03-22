@@ -11,7 +11,7 @@ Para el segundo sprint de la especialidad en UX Designer tenemos como reto encon
 Se acercó a nosotros el __ de la organización Save The Children para encontrar la manera de aumentar el número de conversiones a través de la optimización de una landingPage, esto debido a que sólo el .5% de los visitantes en landinPage se convierte en donante por lo que urge una reestructuración en este canal de ingreso de donantes.
 
 
-Teniendo clara la dolencia del cliente, comenzamos a investigar y entender el modelo de negocio de Save the children a través de la contrucción del *Bussines Model Canva*
+Teniendo clara la dolencia del cliente, comenzamos a investigar y entender el modelo de negocio de Save the children a través de la contrucción del **Bussines Model Canva**
 
 ![Fortalezas y Oportunidades](assets/images/bussines.png)
 
@@ -68,7 +68,7 @@ A continuación toca entender cuales son las acciones que están impiendiendo qu
 
 
 *USER PERSONA*
-![Fortalezas y Oportunidades](assets/images/user.PNG)
+![Fortalezas y Oportunidades](assets/images/user.png)
 
 
 
