@@ -1,14 +1,14 @@
-**Especialidad:** UX Designer
-**Sprint 05** 
-**Duración:** 3 semanas
-**Mentor:** Camilo Salazar Paris y Karla Nava M.
-**Team:** 
+* **Especialidad:** UX Designer
+* **Sprint 05** 
+* **Duración:** 3 semanas
+* **Mentor:** Camilo Salazar Paris y Karla Nava M.
+* **Team:** 
 
-* Brenda Milián **Product Owner**
-* Viridiana Montoya **UX Designer**
-* Andrea Gutierrez **UX Designer**
-* Karina Becerra **UX Research**
-* Nancy Ortega **UX Research** 
+    - Brenda Milián **Product Owner**
+    - Viridiana Montoya **UX Designer**
+    - Andrea Gutierrez **UX Designer**
+    - Karina Becerra **UX Research**
+    - Nancy Ortega **UX Research** 
 
 ![Save_The_Children Logo](assets/images/sta-new-logo.png)
 
