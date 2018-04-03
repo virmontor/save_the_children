@@ -1,8 +1,19 @@
-# SAVE THE CHILDREN
 * **Especialidad:** UX Designer
-* **Sprint 02:**  __
+* **Sprint 05** 
+* **Duración:** 3 semanas
+* **Mentor:** Camilo Salazar Paris y Karla Nava M.
+* **Team:** 
 
-Para el segundo sprint de la especialidad en UX Designer tenemos como reto encontrar una solución para optimizar el journey de un usuario que llega a landingPage de Save The Children.
+Brenda Milián **Product Owner**
+Viridiana Montoya **UX Designer**
+Andrea Gutierrez **UX Designer**
+Karina Becerra **UX Research**
+Nancy Ortega **UX Research** 
+
+![Save_The_Children Logo](assets/images/sta-new-logo.png)
+
+
+El objetivo del sprint es crear una solución para optimizar el journey de un usuario que llega a landingPage de Save The Children.
 
 <hr>
 
@@ -16,6 +27,12 @@ Teniendo clara la dolencia del cliente, comenzamos a investigar y entender el mo
 ![Fortalezas y Oportunidades](assets/images/bussines.png)
 
 <hr>
+
+## Proceso 
+
+Para tener una mejor organización de las actividades a realizar durante el proceso, utilizamos la herramientas de Google **Smarh Sheets** que sirve perfecto como herramienta de control de tareas para el team.
+
+![Google_Smart_Sheets](assets/images/smart.png)
 
 ## Definiendo Objetivo de Negocio
 
@@ -77,4 +94,7 @@ A continuación toca entender cuales son las acciones que están impiendiendo qu
 Tener una retribución emocional a través de una donación segura y confiable.
 
 <hr>
+
+
+
 
