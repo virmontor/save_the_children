@@ -30,7 +30,7 @@ Teniendo clara la dolencia del cliente, comenzamos a investigar y entender el mo
 
 ## Proceso 
 
-Para tener una mejor organización de las actividades a realizar durante el proceso, utilizamos la herramientas de Google **Smarh Sheets** que sirve perfecto como herramienta de control de tareas para el team.
+Para tener una mejor organización de las actividades a realizar durante el proceso, utilizamos la herramientas de **Google Smarh Sheets** que sirve perfecto para la asignación, control, esfuerzo y tiempos de tareas para el team.
 
 ![Google_Smart_Sheets](assets/images/smart_st.png)
 
